@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+
+
+
+#root {
+  text-align: center;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+
+.homelink {
+  background-color: #974fd0;
+  color: white;
+  border-radius: 4px;
+}
+.click button {
+  border-radius: 4px;
+  border: none;
+}
+.button1 {
+  background-color: #974fd0;
+  color: white;
+}
+.button1 img {
+  color: white;
+}
+
+.button2 {
+  color: #974fd0;
+}
+.anchor {
+  color: #974fd0;
+}
+.tags {
+  color: #f38383;
+}
+span {
+  color: #974fd0;
+}
+
+.done{
+  color: white;
+  background-color: #974fd0;
+}
+li{
+  list-style: none;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  background-color: whitesmoke;
+  width: 100%;
+
+}
+.tag{
+  top: -15px;
+  left: 10px;
+}
+li:hover{
+  color:white;
+  background-color: #974fd0;
+}
+.image img{
+  width: 25px;
+  height: 25px;
+}
+
+.image p{
+  color: #974fd0;
+}
+
+.image{
+  cursor: pointer;
+}
+.navigate{
+  cursor: pointer;
+}
+.anchor{
+  color: #974fd0;
+}
